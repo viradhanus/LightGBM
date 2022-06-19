@@ -51,7 +51,7 @@ Documentation for contributors:
 - [**How we update readthedocs.io**](https://github.com/microsoft/LightGBM/blob/master/docs/README.rst).
 - Check out the [**Development Guide**](https://github.com/microsoft/LightGBM/blob/master/docs/Development-Guide.rst).
 
-News
+News.
 ----
 
 Please refer to changelogs at [GitHub releases](https://github.com/microsoft/LightGBM/releases) page.
